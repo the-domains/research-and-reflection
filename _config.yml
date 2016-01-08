@@ -1,0 +1,28 @@
+name: 'Research & Reflection'
+favicon: null
+layout_spectrum: 0.48341469443403184
+typography_spectrum: 0.5562563170678914
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3795109773054719
+  lightness: 0.7831269390881062
+  saturation: 0.18238982534967363
+  rhythmicContrast: 0.9998763867188245
+purpose: []
