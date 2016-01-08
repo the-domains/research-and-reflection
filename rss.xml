@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Research & Reflection]]></title>
+        <description><![CDATA[Research & Reflection]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jan 2016 16:56:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fifty Years of Research & Reflection]]></title>
+            <description><![CDATA[<article><h1>Fifty Years of Research & Reflection</h1><p>This began long ago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/783f4e6d39985c042a244c0704229e7ecf844830.png"></article>]]></description>
+            <link>undefinedfifty-years-of-research-and-reflection/index.html</link>
+            <guid isPermaLink="false">58ef1561-e509-44ed-8e25-7e440b63abcc</guid>
+            <pubDate>Fri, 08 Jan 2016 16:56:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
